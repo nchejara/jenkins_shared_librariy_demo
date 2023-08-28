@@ -3,6 +3,6 @@ def call(String username = 'Wolrd') {
   echo "Hello, ${username}!"
 }
 
-def printMessage(string message) {
+def printMessage(String message) {
     echo "${message}"
 }
